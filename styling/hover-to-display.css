@@ -1,0 +1,19 @@
+/* Based on Autowikibot hover to display by /u/Dropping_fruits */
+/* Code updates and discussion: http://redd.it/1vr0r2 */
+
+.comment .md h6+h4+h5+blockquote {
+	display: none;
+}
+
+.comment .md:hover h6+h4+h5+blockquote {
+	display: block;
+}
+
+.comment .md h6+h4+h5:after {
+	content: "ClockworkServant post. Hover to view";
+	font-weight: normal;
+}
+
+.comment .md:hover h6+h4+h5:after {
+	content: ""
+}
