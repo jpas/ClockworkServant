@@ -8,7 +8,7 @@ import handlers
 name = 'ClockworkServant'
 author = 'Octordia'
 # use semantic versioning
-version = '0.0.0'
+version = '0.1.0'
 user_agent = '{}:{} (by /u/v{})'.format(name, version, author)
 # the subreddits that the bot will watch for selfposts
 subreddits = '+'.join(['herasplayground'])

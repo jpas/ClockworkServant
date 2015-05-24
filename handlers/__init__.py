@@ -1,6 +1,8 @@
+import pointbuy
 import roll
 
 handlers = {
+	'pointbuy': pointbuy,
 	'roll': roll
 }
 
