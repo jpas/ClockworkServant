@@ -1,5 +1,4 @@
 /* Based on Autowikibot hover to display by /u/Dropping_fruits */
-/* Code updates and discussion: http://redd.it/1vr0r2 */
 
 .comment .md h6+h4+h5+blockquote {
 	display: none;
