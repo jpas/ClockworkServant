@@ -52,7 +52,7 @@ while True:
 				postdb.add(post.id)
 
 	for comment in (list(reddit.get_mentions()) + list(reddit.get_unread())):
-		if has_not_posted(comment.id, comment.replies):
+		if comment.was_comment and has_not_posted(comment.id, comment.replies):
 			reply = create_reply(comment.id, comment.body)
 			if reply != None:
 				comment.reply(reply)
