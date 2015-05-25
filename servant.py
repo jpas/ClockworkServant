@@ -33,9 +33,16 @@ def create_reply(id, body):
 		for request in requests:
 			result = handlers.handle(request)
 			if result != None:
-				response = '{}> {}\n\n'.format(response, result)
-		print response
-		return response
+				final = ''
+				for line in result.split('\n'):
+					if line != '':
+						if not line.startswith('['):
+							line = '> ' + line
+						final = final + line + '\n\n'
+				final = final + '---\n'
+				if len(final) + len(response) - 6 <= 10000:
+					response = response + final
+		return response[:-6]
 	return None
 
 reddit = praw.Reddit(user_agent=user_agent, site_name=name)
