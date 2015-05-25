@@ -23,6 +23,7 @@ class SRD:
 		return None
 
 _dbs = {
+	'class': SRD('classdb'),
 	'feat': SRD('featdb'),
 	'spell': SRD('spelldb')
 }
