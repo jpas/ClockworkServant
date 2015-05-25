@@ -26,7 +26,7 @@ def has_not_posted(id, replies):
 	return True
 
 def create_reply(id, body):
-	requests = re.findall('/u/{} (.*)'.format(name), body)
+	requests = set(re.findall('/u/{} (.*)'.format(name), body))
 	if handlers.has(requests):
 		print 'Preparing reply for {}'.format(id)
 		response = '######&#009;\n####&#009;\n#####&#009;\n\n'
