@@ -23,7 +23,8 @@ class SRD:
 		return None
 
 _dbs = {
-	'feat': SRD('featdb')
+	'feat': SRD('featdb'),
+	'spell': SRD('spelldb')
 }
 
 def is_request(request):
