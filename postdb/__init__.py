@@ -11,7 +11,7 @@ def has(id):
 	return id in _db
 
 def add(id):
-	if id not in _db
+	if id not in _db:
 		_db.add(id)
 		with open(_db_path, 'a') as db:
 			db.write(id + '\n')
