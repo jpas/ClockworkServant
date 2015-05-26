@@ -13,10 +13,11 @@ user_agent = '{}:{} (by /u/v{})'.format(name, version, author)
 # the subreddits that the bot will watch for selfposts
 subreddits = '+'.join(['herasplayground','ClockworkServant'])
 hide_string = '######&#009;\n####&#009;\n#####&#009;\n\n'
-signature = ('^(If there is a problem with this post, '
-			'[send us a message]'
-			'(http://www.reddit.com/message/compose?to=/r/{0}&subject=Issue%20with%20/u/{0}) '
-			'and we\'ll try to sort it out.)').format(name)
+signature = ('^(We do not guarentee all content in the post is correct.'
+			 'If there is a problem with this post, '
+			 '[send us a message]'
+			 '(http://www.reddit.com/message/compose?to=/r/{0}&subject=Issue%20with%20/u/{0}) '
+			 'and we\'ll try to sort it out.)').format(name)
 sleep_time = 5
 
 def has_not_posted(id, replies):
