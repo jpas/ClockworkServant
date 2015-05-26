@@ -68,12 +68,13 @@ def handle(spec):
 	result = _eval(spec)
 
 	if result == None:
-		return 'I tried to roll **{}** but didn\'t understand what was going on!'.format(spec)
+		return None
 
 	if result['modifier'] == 0:
 		return 'I rolled **{}** and got **{}**!'.format(spec, result['total'])
 
-	return 'I rolled **{}** and got **{}**^(_{}_{:+})!'.format(spec, result['total'], result['rolled'], result['modifier'])
+	return ('I rolled **{}** and got '
+			'**{}**^(_{}_{:+})!').format(spec, result['total'], result['rolled'], result['modifier'])
 
 if __name__ == '__main__':
 	import sys

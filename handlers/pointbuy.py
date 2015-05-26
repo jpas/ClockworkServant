@@ -54,7 +54,7 @@ def handle(spec):
 	result = _eval(spec);
 
 	if result == None:
-		return 'I tried to calculate the point buy value of **{}** but I can figure it out!'.format(spec)
+		return None
 
 	return 'I calculated the point buy value for **{}** for you, it is **{}**!'.format(spec, result)
 
