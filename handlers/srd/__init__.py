@@ -38,6 +38,8 @@ def is_request(request):
 def handle(spec):
 	if is_request(spec):
 		spec = spec[4:].lower()
+		if spec.startswith('spell mythic'):
+			spec = 'spell' + spec[12:]
 	else:
 		return None
 
