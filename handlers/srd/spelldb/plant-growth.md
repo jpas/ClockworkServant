@@ -1,0 +1,44 @@
+# Spell: Plant Growth
+
+^([PRPG Core Rulebook][ss-plant-growth] pg. 322 | PFS Legal | [Archives of Nehtys][sn-plant-growth])
+
+**School** transmutation; **Level** druid 3, hunter 3, ranger 3
+
+### Casting
+
+**Casting Time** 1 standard action  
+
+**Components** V, S, DF
+
+### Effect
+
+**Range** see text  
+
+**Target or Area** see text  
+
+**Duration** instantaneous  
+
+**Saving Throw** none; **Spell Resistance** no
+
+### Description
+
+_Plant growth_ has different effects depending on the version chosen.  
+
+_Overgrowth_: This effect causes normal vegetation (grasses, briars, bushes, creepers, thistles, trees, vines, and so on) within long range (400 feet + 40 feet per caster level) to become thick and overgrown. The plants entwine to form a thicket or jungle that creatures must hack or force a way through. Speed drops to 5 feet, or 10 feet for Large or larger creatures. The area must have brush and trees in it for this spell to take effect. If this spell is cast on an area that is already affected by any spell or effect that enhances plants, such as _[entangle]_ or _[wall of thorns]_, any DC involved with these spells is increased by 4. This bonus is granted for 1 day after the casting of _[plant growth]_.  
+
+At your option, the area can be a 100-foot-radius circle, a 150-foot-radius semicircle, or a 200-foot-radius quarter circle.  
+
+You may designate places within the area that are not affected.  
+
+_Enrichment_: This effect targets plants within a range of a half-mile, raising their potential productivity over the course of the next year to one-third above normal.  
+
+_Plant growth_ counters _[diminish plants]_.  
+
+This spell has no effect on plant creatures.
+
+[ss-plant-growth]: http://paizo.com/pathfinderRPG/v57
+[sn-plant-growth]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=Plant%20Growth
+[entangle]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=entangle
+[diminish plants]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=diminish%20plants
+[plant growth]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=plant%20growth
+[wall of thorns]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=wall%20of%20thorns

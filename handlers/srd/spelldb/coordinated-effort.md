@@ -1,0 +1,28 @@
+# Spell: Coordinated Effort
+
+^([Advanced Player's Guide][ss-coordinated-effort] pg. 212 | PFS Legal | [Archives of Nehtys][sn-coordinated-effort])
+
+**School** divination; **Level** bard 3, inquisitor 3, skald 3
+
+### Casting
+
+**Casting Time** 1 standard action
+
+**Components** V, S
+
+### Effect
+
+**Range** close (25 ft. + 5 ft./2 levels)
+
+**Targets** you plus one willing creature per 3 levels, no two of which can be more than 30 ft. part
+
+**Duration** 1 minute/level
+
+**Saving Throw** none; **Spell Resistance** no
+
+### Description
+
+Choose a single teamwork feat that you possess. You forge a link with your allies, allowing them to gain the benefits of the chosen feat even if they do not have it themselves. You must be a part of the group qualifying for a given bonus for your allies to gain the benefits. For example, two of your allies flanking an orc would gain no benefit from your Outflank feat, but an ally flanking the orc with you would. Your allies positioning and actions must still meet the prerequisites listed in the teamwork feat for either of you to receive the listed bonus.
+
+[ss-coordinated-effort]: http://paizo.com/pathfinderRPG/v57
+[sn-coordinated-effort]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=Coordinated%20Effort

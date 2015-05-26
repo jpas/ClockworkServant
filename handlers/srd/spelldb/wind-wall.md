@@ -1,0 +1,31 @@
+# Spell: Wind Wall
+
+^([PRPG Core Rulebook][ss-wind-wall] pg. 370 | PFS Legal | [Archives of Nehtys][sn-wind-wall])
+
+**School** evocation [air]; **Level** arcanist 3, bloodrager 3, cleric/oracle 3, druid 3, hunter 2, magus 3, ranger 2, shaman 3, sorcerer/wizard 3, summoner 2, warpriest 3
+
+### Casting
+
+**Casting Time** 1 standard action  
+
+**Components** V, S, M/DF (a tiny fan and an exotic feather)
+
+### Effect
+
+**Range** medium (100 ft. + 10 ft./level)  
+
+**Effect** wall up to 10 ft./level long and 5 ft./level high (S)  
+
+**Duration** 1 round/level  
+
+**Saving Throw** none; see text; **Spell Resistance** yes
+
+### Description
+
+An invisible vertical curtain of wind appears. It is 2 feet thick and of considerable strength. It is a roaring blast sufficient to blow away any bird smaller than an eagle, or tear papers and similar materials from unsuspecting hands. (A Reflex save allows a creature to maintain its grasp on an object.) Tiny and Small flying creatures cannot pass through the barrier. Loose materials and cloth garments fly upward when caught in a _[wind wall]_. Arrows and bolts are deflected upward and miss, while any other normal ranged weapon passing through the wall has a 30% miss chance. (A giant-thrown boulder, a siege engine projectile, and other massive ranged weapons are not affected.) Gases, most gaseous breath weapons, and creatures in gaseous form cannot pass through the wall (although it is no barrier to incorporeal creatures).  
+
+While the wall must be vertical, you can shape it in any continuous path along the ground that you like. It is possible to create cylindrical or square wind walls to enclose specific points.
+
+[ss-wind-wall]: http://paizo.com/pathfinderRPG/v57
+[sn-wind-wall]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=Wind%20Wall
+[wind wall]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=wind%20wall
