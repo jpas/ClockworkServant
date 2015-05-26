@@ -1,0 +1,28 @@
+# Spell: Viper Bomb Admixture
+
+^([Ultimate Combat][ss-viper-bomb-admixture] pg. **LOOKUP** | PFS Legal | [Archives of Nehtys][sn-viper-bomb-admixture])
+
+**School** conjuration (creation); **Level** alchemist 4, investigator 4
+
+### Casting
+
+**Casting Time** 1 standard action  
+
+**Components** V, S
+
+### Effect
+
+**Range** personal  
+
+**Target** you  
+
+**Duration** 1 round/level
+
+### Description
+
+Upon drinking an extract created with this formula, you make a significant change to your magical reserve that modifies the nature of all bombs you create and throw during this extracts duration. This effect on your magical reserve has no effect on any discoveries that you use to modify your bombs, but you can only have one admixture effect (formula with the word bomb admixture in its title) active at a time. If you drink another bomb admixture, the effects of the former bomb admixture end and the new one becomes active.  
+
+When you throw a bomb and hit a target directly, up to four vipers are released from the bomb. One viper attacks the target of the direct hit, and the other vipers attack up to three creatures that take damage from the splash damage. The vipers make melee touch attacks (using your base attack bonus + Intelligence modifier) and on a hit deal 1d4 + your Intelligence modifier damage, and the target is poisoned as if by a venomous snake. Hit or miss, the conjured vipers disappear after they make the attack. The conjured snakes are not damaged or adversely affected by the bombs you throw.
+
+[ss-viper-bomb-admixture]: http://paizo.com/pathfinderRPG/v57
+[sn-viper-bomb-admixture]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=Viper%20Bomb%20Admixture

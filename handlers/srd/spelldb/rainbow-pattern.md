@@ -1,0 +1,33 @@
+# Spell: Rainbow Pattern
+
+^([PRPG Core Rulebook][ss-rainbow-pattern] pg. 329 | PFS Legal | [Archives of Nehtys][sn-rainbow-pattern])
+
+**School** illusion (pattern) [mind-affecting]; **Level** arcanist 4, bard 4, red mantis assassin 4, skald 4, sorcerer/wizard 4
+
+### Casting
+
+**Casting Time** 1 standard action  
+
+**Components** V (bard only), S, M (a piece of phosphor), F (a crystal prism); see text
+
+### Effect
+
+**Range** medium (100 ft. + 10 ft./level)  
+
+**Effect** colorful lights with a 20-ft.-radius spread  
+
+**Duration** concentration + 1 round/level (D)  
+
+**Saving Throw** Will negates; **Spell Resistance** yes
+
+### Description
+
+A glowing, rainbow-hued pattern of interweaving colors fascinates those within it. _Rainbow pattern_ fascinates a maximum of 24 HD of creatures. Creatures with the fewest HD are affected first. Among creatures with equal HD, those who are closest to the spell's point of origin are affected first. An affected creature that fails its saves is fascinated by the pattern.  
+
+With a simple gesture (a free action), you can make the _[rainbow pattern]_ move up to 30 feet per round (moving its effective point of origin). All fascinated creatures follow the moving rainbow of light, trying to remain within the effect. Fascinated creatures who are restrained and removed from the pattern still try to follow it. If the pattern leads its subjects into a dangerous area, each fascinated creature gets a second save. If the view of the lights is completely blocked, creatures who can't see them are no longer affected.  
+
+The spell does not affect sightless creatures.
+
+[ss-rainbow-pattern]: http://paizo.com/pathfinderRPG/v57
+[sn-rainbow-pattern]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=Rainbow%20Pattern
+[rainbow pattern]: http://www.archivesofnethys.com/SpellDisplay.aspx?ItemName=rainbow%20pattern

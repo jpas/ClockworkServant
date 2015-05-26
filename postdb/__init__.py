@@ -5,13 +5,13 @@ _db = set()
 
 with open(_db_path, 'r') as db:
 	for post_id in db:
-		_db.add(post_id)
+		_db.add(post_id[:-1])
 
 def has(id):
 	return id in _db
 
 def add(id):
-	if id not in _db
+	if id not in _db:
 		_db.add(id)
 		with open(_db_path, 'a') as db:
 			db.write(id + '\n')

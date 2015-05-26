@@ -1,9 +1,11 @@
 import pointbuy
 import roll
+import srd
 
 handlers = {
 	'pointbuy': pointbuy,
-	'roll': roll
+	'roll': roll,
+	'srd': srd
 }
 
 def has(requests):
