@@ -37,6 +37,7 @@ def parse(html):
 
 		spell['name'] = soup.h1.get_text().strip()
 		spell['url']  = urllib.quote(spell['name'])
+		
 		spell['id']   = re.sub('[^\w]', '-', spell['name'].lower())
 		spell['id']   = re.sub('([\w-]+?)--(\w+)', '\\2-\\1', spell['id'])
 
